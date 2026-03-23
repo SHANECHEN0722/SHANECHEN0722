@@ -7,8 +7,8 @@
 <h3 align="center">A passionate developer who loves building useful and beautiful things</h3>
 
 <br><br>
-<!-- Star 2023-->
-<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
+
+<div align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Xi_Jinping_(2023-04-06).jpg/330px-Xi_Jinping_(2023-04-06).jpg">
 
 <!-- 数据展示-主题&theme=radical-->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
@@ -69,13 +69,6 @@ Here are some ideas to get you started:
 </picture>
 
 </div>
-
----
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=SHANECHEN0722&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
----
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/SHANECHEN0722?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
