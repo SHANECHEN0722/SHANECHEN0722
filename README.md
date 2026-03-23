@@ -1,9 +1,9 @@
-<!-- Profile README for SHANECHEN0722 -->
+<!-- Profile README for SHANE -->
 <!-- <h1 align="center">Hi 👋, I'm Orange 👨‍💻</h1> -->
 
 
 <!-- 个人简介 -->
-<div align="center"><a href="https://github.com/SHANECHEN0722"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I'm+SHANECHEN0722+%F0%9F%9A%80&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://github.com/SHANECHEN0722"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I'm+SHANE+%F0%9F%9A%80&center=true&size=27"> </a> </div>
 <h3 align="center">A passionate developer who loves building useful and beautiful things</h3>
 
 <br><br>
