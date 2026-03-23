@@ -2,14 +2,14 @@
   
   <h1 align="center"> 
     <a href="https://chenxian.online/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);I am pursuing a Master's degree in Computer Science.人的内心在年轻的时候还是要干净纯粹一些。&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);人的内心在年轻的时候还是要干净纯粹一些。&center=true&size=27"> 
 </a> 
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/SHANECHEN0722/SHANECHEN0722/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/SHANECHEN0722/SHANECHEN0722/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/SHANECHEN0722/SHANECHEN0722/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
