@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+  
+I am pursuing a Master's degree in Computer Science.
+
+✨人的内心在年轻的时候还是要干净纯粹一些。✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHANECHEN0722/SHANECHEN0722/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <!--
 **SHANECHEN0722/SHANECHEN0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
