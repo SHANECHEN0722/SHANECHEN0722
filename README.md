@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate developer who loves building useful and beautiful things</h3>
 
-<div align="center"> <img src="https://s41.ax1x.com/2026/06/01/pmAlKrF.jpg">
+<div align="center"> <img src="https://github.com/SHANECHEN0722/SHANECHEN0722/blob/main/p/IMG_0052.JPG?raw=true">
 
 <!-- 数据展示-主题&theme=radical-->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
